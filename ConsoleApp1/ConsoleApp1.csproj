@@ -53,8 +53,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="laba4.cs" />
     <Compile Include="laba3.cs" />
-    <Compile Include="myTestClass.cs" />
+    <Compile Include="laba2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
